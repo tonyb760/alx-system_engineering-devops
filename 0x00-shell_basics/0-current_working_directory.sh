@@ -1,0 +1,2 @@
+by #!/bin/bash
+pwd
